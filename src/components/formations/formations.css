@@ -1,0 +1,32 @@
+.formations-container{
+    margin: 50px 10%;
+}
+
+.h2-title{
+    text-decoration: underline;
+}
+
+.title-f{
+    font-size: x-large;
+}
+
+.container-formation{
+    border: 3px solid black;
+    border-radius: 15px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+
+.display-formation{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 60%;
+}
+
+@media (max-width: 900px) {
+    .display-formation{
+        width: 100%;
+        overflow: hidden;
+    }
+}

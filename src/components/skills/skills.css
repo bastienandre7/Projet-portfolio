@@ -1,0 +1,70 @@
+.logoSkills{
+    width: 100%
+}
+
+.h2-title{
+    text-decoration: underline;
+}
+
+.skills{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.skills-container{
+    margin: 50px 10%;
+}
+
+.logo-title{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-html{
+    color: #E34C26;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-js{
+    color: #F0DB4F;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-css{
+    color: #264de4;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-react{
+    color: #61DBFB;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-git{
+    color: #f1502f;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-github{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-node{
+    color: #68A063;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-fa{
+    color: #1DA1F2;
+    display: flex;
+    justify-content: center;
+}
